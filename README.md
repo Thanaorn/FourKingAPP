@@ -1,6 +1,7 @@
 วิธีเปิดโปรเจค<br />
 1.โหลด project<br />
-2.เปิด application โดยเปิดที่ FourKing.exe
+2.เปิด folder FourKing<br />
+3.เปิด application โดยเปิดที่ FourKing.exe
 
 วิธีใช้งาน<br />
 1.ใส่ตัวเลขที่ช่องใส่จำนวนคน<br />
@@ -15,3 +16,6 @@
 กด spacebar เพื่อกระโดด<br />
 ปุ่ม ย้อนกลับ กดเพื่อย้อนไปตั้งแต่ใส่จำนวนคน<br />
 ปุ่ม กากบาท กดเพื่อออกจาก application<br />
+folder code เป็น code ทั้งหมดที่ใช้พัฒนาใน unity<br />
+main C# scripts ชื่อ calculateScript โดยมี main methodที่ใช้คำนวนและsort ชื่อ calcaulateMethod<br />
+ส่วน C# script ตัวอื่นๆจะเป็นองค์ประกอบเช่น ตัวละครที่วิ่งตามเมาส์กับตัวจัดการ scence<br />
